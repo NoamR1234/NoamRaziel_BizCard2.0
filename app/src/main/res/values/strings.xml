@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BizCard</string>
+
+    <!-- MainActivity -->
+    <string name="title_main">כרטיס ביקור</string>
+    <string name="hint_name">שם מלא</string>
+    <string name="hint_job">תפקיד</string>
+    <string name="hint_phone">טלפון</string>
+    <string name="hint_site">אתר</string>
+    <string name="btn_create">צור כרטיס</string>
+    <string name="toast_enter_name">נא להזין שם</string>
+
+    <!-- CardActivity -->
+    <string name="btn_back">חזרה</string>
+    <string name="share_chooser_title">שתף כרטיס</string>
+    <string name="toast_no_dialer">לא נמצאה אפליקציית חיוג</string>
+    <string name="toast_no_browser">לא נמצא דפדפן</string>
+    <string name="toast_no_share">לא נמצאה אפליקציה לשיתוף</string>
+
+    <!-- AboutActivity -->
+    <string name="title_about">אודות</string>
+    <string name="about_app_name">שם האפליקציה: BizCard - כרטיס ביקור דיגיטלי</string>
+    <string name="about_author">נוצר על ידי: השם שלי</string>
+    <string name="about_class">כיתה: י״ב</string>
+
+    <!-- Menu -->
+    <string name="clear">נקה</string>
+    <string name="fill">דוגמה</string>
+    <string name="about">אודות</string>
+    <string name="share">שתף</string>
+    <string name="dial">חייג</string>
+    <string name="web">פתח אתר</string>
+</resources>

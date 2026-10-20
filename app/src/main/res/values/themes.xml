@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.BizCard" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#6750A4</item>
+        <item name="colorPrimaryDark">#4A2F96</item>
+        <item name="colorAccent">#6750A4</item>
+    </style>
+</resources>
